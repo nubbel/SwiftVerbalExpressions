@@ -1,6 +1,8 @@
 SwiftVerbalExpressions
 ======================
 
+The repo has moved to the VerbalExpressions organization: https://github.com/VerbalExpressions/SwiftVerbalExpressions
+
 
 ## Swift Regular Expressions made easy
 
